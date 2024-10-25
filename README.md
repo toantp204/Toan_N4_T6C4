@@ -4,7 +4,7 @@
 
 ## 👨‍💻 Về tôi
 - 🧑‍💻 Tôi là một lập trình viên trẻ đầy nhiệt huyết, đam mê sáng tạo và không ngừng học hỏi.
-- 🎓 Hiện tôi đang theo học ngành Công nghệ thông tin chuyên ngành Công nghệ phần mềm tại trường đại học Ngoại Ngữ Tin Học thành phố Hồ Chí Minh (HUFLIT), với mong muốn phát triển sự nghiệp trong lĩnh vực phát triển phần mềm.
+- 🎓 Hiện tôi đang theo học Công nghệ thông tin chuyên ngành Công nghệ phần mềm tại trường đại học Ngoại Ngữ Tin Học thành phố Hồ Chí Minh (HUFLIT), với mong muốn phát triển sự nghiệp trong lĩnh vực phát triển phần mềm.
 - 🌐 Yêu thích các công nghệ như Python, JavaScript, và gần đây đang khám phá thế giới của Machine Learning.
 
 ## 💼 Dự án nổi bật
